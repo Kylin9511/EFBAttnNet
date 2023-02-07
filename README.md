@@ -1,5 +1,5 @@
 ## Overview
-This is the PyTorch implementation of paper [Towards Efficient Subarray Hybrid Beamforming: Attention Network-based Practical Feedback in FDD Massive MU-MIMO System]() which has been submitted to IEEE for possible publication. The test script and trained models are listed here and the key results can be reproduced as a validation of our work.
+This is the PyTorch implementation of paper [Towards Efficient Subarray Hybrid Beamforming: Attention Network-based Practical Feedback in FDD Massive MU-MIMO System](https://arxiv.org/abs/2302.02401). The test script and trained models are listed here and the key results can be reproduced as a validation of our work.
 
 ## Requirements
 
@@ -18,7 +18,7 @@ The channel state information (CSI) matrix is generated according to the influen
 You can also generate your own dataset according to the SV channel model. The details of data pre-processing can be found in our paper.
 
 #### B. Checkpoints Downloading
-The model checkpoints should be downloaded if you would like to reproduce our result. All the checkpoints files can be downloaded from [Baidu Netdisk]().
+The model checkpoints should be downloaded if you would like to reproduce our result. All the checkpoints files can be downloaded from [Baidu Netdisk](https://pan.baidu.com/s/1mhVZiM8CW4ZvJF5-WnwOIg)(passwd: ppr3).
 
 #### C. Project Tree Arrangement
 We recommend you to arrange the project tree as follows.
